@@ -66,7 +66,7 @@ Execute the test script to see DCN's ability to adapt and recover from bias:
 ```bash
 python simulations/sequence_test.py
 ```
-###✍️ Authors & License
+### ✍️ Authors & License
 
 This project is the implementation of the Dynamic Chaos Net (DCN) architecture, a rigorous model designed for adaptive control in dynamic systems.
 
